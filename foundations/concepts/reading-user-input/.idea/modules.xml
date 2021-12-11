@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/flour-packer.iml" filepath="$PROJECT_DIR$/flour-packer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reading-user-input.iml" filepath="$PROJECT_DIR$/reading-user-input.iml" />
     </modules>
   </component>
 </project>
