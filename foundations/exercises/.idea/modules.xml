@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/area-calculator/area-calculator.iml" filepath="$PROJECT_DIR$/area-calculator/area-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/barking-dog/barking-dog.iml" filepath="$PROJECT_DIR$/barking-dog/barking-dog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/decimal-comparator/decimal-comparator.iml" filepath="$PROJECT_DIR$/decimal-comparator/decimal-comparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/equal-sum-checker/equal-sum-checker.iml" filepath="$PROJECT_DIR$/equal-sum-checker/equal-sum-checker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/even-digit-sum/even-digit-sum.iml" filepath="$PROJECT_DIR$/even-digit-sum/even-digit-sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/exercises.iml" filepath="$PROJECT_DIR$/.idea/exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factor-printer/factor-printer.iml" filepath="$PROJECT_DIR$/factor-printer/factor-printer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/first-and-last-digit-sum/first-and-last-digit-sum.iml" filepath="$PROJECT_DIR$/first-and-last-digit-sum/first-and-last-digit-sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/greatest-common-divisor/greatest-common-divisor.iml" filepath="$PROJECT_DIR$/greatest-common-divisor/greatest-common-divisor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-world/hello-world.iml" filepath="$PROJECT_DIR$/hello-world/hello-world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/int-equality-printer/int-equality-printer.iml" filepath="$PROJECT_DIR$/int-equality-printer/int-equality-printer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/last-digit-checker/last-digit-checker.iml" filepath="$PROJECT_DIR$/last-digit-checker/last-digit-checker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leap-year-calculator/leap-year-calculator.iml" filepath="$PROJECT_DIR$/leap-year-calculator/leap-year-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mega-bytes-converter/mega-bytes-converter.iml" filepath="$PROJECT_DIR$/mega-bytes-converter/mega-bytes-converter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/minutes-to-years-days-calculator/minutes-to-years-days-calculator.iml" filepath="$PROJECT_DIR$/minutes-to-years-days-calculator/minutes-to-years-days-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/number-in-word/number-in-word.iml" filepath="$PROJECT_DIR$/number-in-word/number-in-word.iml" />
+      <module fileurl="file://$PROJECT_DIR$/number-palindrome/number-palindrome.iml" filepath="$PROJECT_DIR$/number-palindrome/number-palindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/perfect-number/perfect-number.iml" filepath="$PROJECT_DIR$/perfect-number/perfect-number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/playing-cat/playing-cat.iml" filepath="$PROJECT_DIR$/playing-cat/playing-cat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shared-digit/shared-digit.iml" filepath="$PROJECT_DIR$/shared-digit/shared-digit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/speed-converter/speed-converter.iml" filepath="$PROJECT_DIR$/speed-converter/speed-converter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sum-odd-range/sum-odd-range.iml" filepath="$PROJECT_DIR$/sum-odd-range/sum-odd-range.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teen-number-checker/teen-number-checker.iml" filepath="$PROJECT_DIR$/teen-number-checker/teen-number-checker.iml" />
+    </modules>
+  </component>
+</project>
