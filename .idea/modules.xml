@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/foundations/exercises/area-calculator/area-calculator.iml" filepath="$PROJECT_DIR$/foundations/exercises/area-calculator/area-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foundations/exercises/barking-dog/barking-dog.iml" filepath="$PROJECT_DIR$/foundations/exercises/barking-dog/barking-dog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foundations/concepts/byte-short-int-long/byte-short-int-long.iml" filepath="$PROJECT_DIR$/foundations/concepts/byte-short-int-long/byte-short-int-long.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop/exercises/constructors/carpet-cost-calculator/carpet-cost-calculator.iml" filepath="$PROJECT_DIR$/oop/exercises/constructors/carpet-cost-calculator/carpet-cost-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foundations/concepts/char-and-boolean/char-and-boolean.iml" filepath="$PROJECT_DIR$/foundations/concepts/char-and-boolean/char-and-boolean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop/concepts/classes/classes.iml" filepath="$PROJECT_DIR$/oop/concepts/classes/classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop/concepts/constructors/constructors.iml" filepath="$PROJECT_DIR$/oop/concepts/constructors/constructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop/exercises/inheritance/cylinder/cylinder.iml" filepath="$PROJECT_DIR$/oop/exercises/inheritance/cylinder/cylinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foundations/exercises/decimal-comparator/decimal-comparator.iml" filepath="$PROJECT_DIR$/foundations/exercises/decimal-comparator/decimal-comparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foundations/exercises/equal-sum-checker/equal-sum-checker.iml" filepath="$PROJECT_DIR$/foundations/exercises/equal-sum-checker/equal-sum-checker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foundations/exercises/even-digit-sum/even-digit-sum.iml" filepath="$PROJECT_DIR$/foundations/exercises/even-digit-sum/even-digit-sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foundations/exercises/factor-printer/factor-printer.iml" filepath="$PROJECT_DIR$/foundations/exercises/factor-printer/factor-printer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foundations/exercises/first-and-last-digit-sum/first-and-last-digit-sum.iml" filepath="$PROJECT_DIR$/foundations/exercises/first-and-last-digit-sum/first-and-last-digit-sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foundations/concepts/float-and-double/float-and-double.iml" filepath="$PROJECT_DIR$/foundations/concepts/float-and-double/float-and-double.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foundations/concepts/for/for.iml" filepath="$PROJECT_DIR$/foundations/concepts/for/for.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foundations/exercises/greatest-common-divisor/greatest-common-divisor.iml" filepath="$PROJECT_DIR$/foundations/exercises/greatest-common-divisor/greatest-common-divisor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foundations/exercises/hello-world/hello-world.iml" filepath="$PROJECT_DIR$/foundations/exercises/hello-world/hello-world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foundations/concepts/if-keyword-and-codeblocks/if-keyword-and-codeblocks.iml" filepath="$PROJECT_DIR$/foundations/concepts/if-keyword-and-codeblocks/if-keyword-and-codeblocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop/concepts/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/oop/concepts/inheritance/inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foundations/exercises/int-equality-printer/int-equality-printer.iml" filepath="$PROJECT_DIR$/foundations/exercises/int-equality-printer/int-equality-printer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-training-arc.iml" filepath="$PROJECT_DIR$/.idea/java-training-arc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foundations/concepts/keywords-and-expressions/keywords-and-expressions.iml" filepath="$PROJECT_DIR$/foundations/concepts/keywords-and-expressions/keywords-and-expressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foundations/exercises/last-digit-checker/last-digit-checker.iml" filepath="$PROJECT_DIR$/foundations/exercises/last-digit-checker/last-digit-checker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foundations/exercises/leap-year-calculator/leap-year-calculator.iml" filepath="$PROJECT_DIR$/foundations/exercises/leap-year-calculator/leap-year-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foundations/exercises/mega-bytes-converter/mega-bytes-converter.iml" filepath="$PROJECT_DIR$/foundations/exercises/mega-bytes-converter/mega-bytes-converter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foundations/concepts/method-overloading/method-overloading.iml" filepath="$PROJECT_DIR$/foundations/concepts/method-overloading/method-overloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foundations/exercises/min-and-max/min-and-max.iml" filepath="$PROJECT_DIR$/foundations/exercises/min-and-max/min-and-max.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foundations/exercises/minutes-to-years-days-calculator/minutes-to-years-days-calculator.iml" filepath="$PROJECT_DIR$/foundations/exercises/minutes-to-years-days-calculator/minutes-to-years-days-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foundations/exercises/number-in-word/number-in-word.iml" filepath="$PROJECT_DIR$/foundations/exercises/number-in-word/number-in-word.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foundations/exercises/number-palindrome/number-palindrome.iml" filepath="$PROJECT_DIR$/foundations/exercises/number-palindrome/number-palindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foundations/concepts/operator/operator.iml" filepath="$PROJECT_DIR$/foundations/concepts/operator/operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foundations/concepts/parsing-values-from-a-string/parsing-values-from-a-string.iml" filepath="$PROJECT_DIR$/foundations/concepts/parsing-values-from-a-string/parsing-values-from-a-string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foundations/exercises/perfect-number/perfect-number.iml" filepath="$PROJECT_DIR$/foundations/exercises/perfect-number/perfect-number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop/exercises/classes/person/person.iml" filepath="$PROJECT_DIR$/oop/exercises/classes/person/person.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foundations/exercises/playing-cat/playing-cat.iml" filepath="$PROJECT_DIR$/foundations/exercises/playing-cat/playing-cat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop/exercises/constructors/point/point.iml" filepath="$PROJECT_DIR$/oop/exercises/constructors/point/point.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop/exercises/inheritance/pool-area/pool-area.iml" filepath="$PROJECT_DIR$/oop/exercises/inheritance/pool-area/pool-area.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foundations/concepts/reading-user-input/reading-user-input.iml" filepath="$PROJECT_DIR$/foundations/concepts/reading-user-input/reading-user-input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foundations/exercises/reading-user-input/reading-user-input1.iml" filepath="$PROJECT_DIR$/foundations/exercises/reading-user-input/reading-user-input1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foundations/exercises/shared-digit/shared-digit.iml" filepath="$PROJECT_DIR$/foundations/exercises/shared-digit/shared-digit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foundations/exercises/speed-converter/speed-converter.iml" filepath="$PROJECT_DIR$/foundations/exercises/speed-converter/speed-converter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foundations/concepts/statements-whitespace-and-indenting/statements-whitespace-and-indenting.iml" filepath="$PROJECT_DIR$/foundations/concepts/statements-whitespace-and-indenting/statements-whitespace-and-indenting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foundations/concepts/strings/strings.iml" filepath="$PROJECT_DIR$/foundations/concepts/strings/strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop/exercises/classes/sum-calculator/sum-calculator.iml" filepath="$PROJECT_DIR$/oop/exercises/classes/sum-calculator/sum-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foundations/exercises/sum-odd-range/sum-odd-range.iml" filepath="$PROJECT_DIR$/foundations/exercises/sum-odd-range/sum-odd-range.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foundations/concepts/switch/switch.iml" filepath="$PROJECT_DIR$/foundations/concepts/switch/switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foundations/exercises/teen-number-checker/teen-number-checker.iml" filepath="$PROJECT_DIR$/foundations/exercises/teen-number-checker/teen-number-checker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop/exercises/constructors/wall-area/wall-area.iml" filepath="$PROJECT_DIR$/oop/exercises/constructors/wall-area/wall-area.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foundations/concepts/while-and-do-while/while-and-do-while.iml" filepath="$PROJECT_DIR$/foundations/concepts/while-and-do-while/while-and-do-while.iml" />
+    </modules>
+  </component>
+</project>
