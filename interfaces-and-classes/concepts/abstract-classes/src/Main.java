@@ -3,6 +3,12 @@ public class Main {
     // instantiated, meaning you cannot create new instances
     // of an abstract class. The purpose of an abstract class
     // is to function as a base for subclasses.
+
+    // Use interfaces when you expect that unrelated classes will
+    // implement your interface.
+
+    // Use abstract when you want to share code among several
+    // closely related classes.
     public static void main(String[] args) {
         Dog dog = new Dog("Yorkie");
         dog.breathe();
