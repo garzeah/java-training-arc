@@ -1,7 +1,0 @@
-package garzeah.spring5webapp.repositories;
-
-import garzeah.spring5webapp.model.Book;
-import org.springframework.data.repository.CrudRepository;
-
-public interface BookRepository extends CrudRepository<Book, Long> {
-}
