@@ -5,4 +5,9 @@ public class PoppingCoach implements Coach {
     public String getDailyWorkout() {
         return "1000 arm waves";
     }
+
+    @Override
+    public String getDailyFortune() {
+        return null;
+    }
 }
