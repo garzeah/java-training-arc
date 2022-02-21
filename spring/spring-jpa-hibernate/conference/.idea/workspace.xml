@@ -10,35 +10,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94b892f5-1516-49a7-b61a-104ca25952f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/conference/model/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/conference/model/RegistrationReport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/conference/repository/CourseRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/conference/repository/CourseRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/conference/repository/RegistrationRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/conference/repository/RegistrationRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/conference/repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/conference/repository/UserRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/conference/service/RegistrationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/conference/service/RegistrationServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/conference/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/conference/service/UserServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/pluralsight/conference/controller/RegistrationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/conference/controller/RegistrationController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/pluralsight/conference/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/conference/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pluralsight/conference/model/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/conference/model/Course.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/pluralsight/conference/model/Registration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/conference/model/Registration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/pluralsight/conference/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/conference/model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pluralsight/conference/repository/RegistrationRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/conference/repository/RegistrationRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pluralsight/conference/repository/RegistrationRepositoryImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pluralsight/conference/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/conference/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pluralsight/conference/repository/UserRepositoryImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pluralsight/conference/service/RegistrationServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/conference/service/RegistrationServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/pluralsight/conference/controller/RegistrationController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pluralsight/conference/controller/RegistrationController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/pluralsight/conference/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pluralsight/conference/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pluralsight/conference/model/Course.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pluralsight/conference/model/Course.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/pluralsight/conference/model/Registration.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pluralsight/conference/model/Registration.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/pluralsight/conference/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pluralsight/conference/model/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pluralsight/conference/repository/RegistrationRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pluralsight/conference/repository/RegistrationRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pluralsight/conference/repository/RegistrationRepositoryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pluralsight/conference/repository/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pluralsight/conference/repository/UserRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pluralsight/conference/repository/UserRepositoryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pluralsight/conference/service/RegistrationServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pluralsight/conference/service/RegistrationServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pluralsight/conference/service/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pluralsight/conference/service/UserServiceImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/conference-0.0.1-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/conference-0.0.1-SNAPSHOT.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/conference-0.0.1-SNAPSHOT/WEB-INF/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/conference-0.0.1-SNAPSHOT/WEB-INF/classes/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/conference-0.0.1-SNAPSHOT/WEB-INF/classes/com/pluralsight/conference/controller/RegistrationController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/conference-0.0.1-SNAPSHOT/WEB-INF/classes/com/pluralsight/conference/controller/RegistrationController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/conference-0.0.1-SNAPSHOT/WEB-INF/classes/com/pluralsight/conference/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/conference-0.0.1-SNAPSHOT/WEB-INF/classes/com/pluralsight/conference/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/conference-0.0.1-SNAPSHOT/WEB-INF/classes/com/pluralsight/conference/model/Course.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/conference-0.0.1-SNAPSHOT/WEB-INF/classes/com/pluralsight/conference/model/Course.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/conference-0.0.1-SNAPSHOT/WEB-INF/classes/com/pluralsight/conference/model/Registration.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/conference-0.0.1-SNAPSHOT/WEB-INF/classes/com/pluralsight/conference/model/Registration.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/conference-0.0.1-SNAPSHOT/WEB-INF/classes/com/pluralsight/conference/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/conference-0.0.1-SNAPSHOT/WEB-INF/classes/com/pluralsight/conference/model/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/conference-0.0.1-SNAPSHOT/WEB-INF/classes/com/pluralsight/conference/repository/RegistrationRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/conference-0.0.1-SNAPSHOT/WEB-INF/classes/com/pluralsight/conference/repository/RegistrationRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/conference-0.0.1-SNAPSHOT/WEB-INF/classes/com/pluralsight/conference/repository/RegistrationRepositoryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/conference-0.0.1-SNAPSHOT/WEB-INF/classes/com/pluralsight/conference/repository/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/conference-0.0.1-SNAPSHOT/WEB-INF/classes/com/pluralsight/conference/repository/UserRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/conference-0.0.1-SNAPSHOT/WEB-INF/classes/com/pluralsight/conference/repository/UserRepositoryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/conference-0.0.1-SNAPSHOT/WEB-INF/classes/com/pluralsight/conference/service/RegistrationServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/conference-0.0.1-SNAPSHOT/WEB-INF/classes/com/pluralsight/conference/service/RegistrationServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/conference-0.0.1-SNAPSHOT/WEB-INF/classes/com/pluralsight/conference/service/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/conference-0.0.1-SNAPSHOT/WEB-INF/classes/com/pluralsight/conference/service/UserServiceImpl.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -229,7 +234,7 @@
       <workItem from="1612498163488" duration="460000" />
       <workItem from="1645133648291" duration="795000" />
       <workItem from="1645328020303" duration="2379000" />
-      <workItem from="1645330599187" duration="12068000" />
+      <workItem from="1645330599187" duration="16386000" />
     </task>
     <servers />
   </component>

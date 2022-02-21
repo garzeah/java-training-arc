@@ -25,13 +25,16 @@ public class RegistrationServiceImpl implements RegistrationService {
     public Registration addRegistration(Registration registration) {
         registration = registrationRepository.save(registration);
 
-        // Everybody who registers in our conference should attend an introductory course
-        Course course = new Course();
-        course.setName("Intro");
-        course.setDescription("Every attendee must complete this introduction course.");
-        course.setRegistration(registration);
+        // If course already exists then create a new one
+        if (registration.getId() == null) {
+            // Everybody who registers in our conference should attend an introductory course
+            Course course = new Course();
+            course.setName("Intro");
+            course.setDescription("Every attendee must complete this introduction course.");
+            course.setRegistration(registration);
 
-        courseRepository.save(course);
+            courseRepository.save(course);
+        }
 
         return registration;
     }
@@ -43,7 +46,7 @@ public class RegistrationServiceImpl implements RegistrationService {
 
     @Override
     public List<RegistrationReport> findAllReports() {
-        return registrationRepository.findAllReports();
+        return registrationRepository.registrationReport();
     }
 
 }

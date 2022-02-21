@@ -15,9 +15,9 @@ public class UserController {
     private UserService userService;
 
     @GetMapping("/user")
-    public User getUser(@RequestParam(value = "firstname", defaultValue = "Bryan") String firstname,
-                        @RequestParam(value = "lastname", defaultValue = "Hansen") String lastname,
-                        @RequestParam(value = "age", defaultValue = "43") int age) {
+    public User getUser(@RequestParam(value = "firstname") String firstname,
+                        @RequestParam(value = "lastname") String lastname,
+                        @RequestParam(value = "age") int age) {
         User user = new User();
 
         user.setFirstname(firstname);

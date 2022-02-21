@@ -3,19 +3,16 @@ package com.pluralsight.conference.model;
 import javax.persistence.*;
 
 @Entity
-@Table(name = "user")
+@Table(name = "CONF_USERS")
 public class User {
 
     @Id
     @GeneratedValue
     private Long id;
-
-    @Column(name = "firstName")
-    private String firstName;
-
-    @Column(name = "lastName")
+    @Column(name = "FIRST_NAME")
+    private String firstname;
+    @Column(name = "LAST_NAME")
     private String lastname;
-
     private int age;
 
     public Long getId() {
@@ -27,11 +24,11 @@ public class User {
     }
 
     public String getFirstname() {
-        return firstName;
+        return firstname;
     }
 
     public void setFirstname(String firstname) {
-        this.firstName = firstname;
+        this.firstname = firstname;
     }
 
     public String getLastname() {
