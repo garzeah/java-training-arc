@@ -1,16 +1,16 @@
 package com.pluralsight.conferencedemo.models;
 
 import com.pluralsight.conferencedemo.repositories.SpeakerJpaRepository;
+import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
-import org.junit.jupiter.api.Test;
 
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 import javax.transaction.Transactional;
+import java.util.List;
 
-import static org.junit.jupiter.api.Assertions.assertNotNull;
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.*;
 
 @SpringBootTest
 public class SpeakerTest {
@@ -47,4 +47,15 @@ public class SpeakerTest {
         repository.deleteById(otherSpeaker.getSpeakerId());
     }
 
+    @Test
+    public void testJpaAnd() throws Exception {
+        List<Speaker> speakers = repository.findByFirstNameAndLastName("Justin", "Clark");
+        assertTrue(speakers.size() > 0);
+    }
+
+    @Test
+    public void testJpaOr() throws Exception {
+        List<Speaker> speakers = repository.findByFirstNameOrLastName("Justin", "Clark");
+        assertTrue(speakers.size() > 0);
+    }
 }
