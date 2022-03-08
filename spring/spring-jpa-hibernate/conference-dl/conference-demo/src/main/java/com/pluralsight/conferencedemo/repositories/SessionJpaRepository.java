@@ -1,11 +1,15 @@
 package com.pluralsight.conferencedemo.repositories;
 
 import com.pluralsight.conferencedemo.models.Session;
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.data.jpa.repository.Query;
+import org.springframework.data.repository.query.Param;
 
 import java.util.List;
 
-public interface SessionJpaRepository extends JpaRepository<Session, Long> {
+public interface SessionJpaRepository extends JpaRepository<Session, Long>, SessionCustomJpaRepository {
     List<Session> findBySessionNameContains(String name); // Query DSL returns collection
     Session findFirstBySessionNameContains(String name); // Query DSL returns first row
     Long countBySessionNameContains(String name); // Query DSL returns the count
@@ -19,6 +23,6 @@ public interface SessionJpaRepository extends JpaRepository<Session, Long> {
     // Operators example
     List<Session> findBySessionLengthLessThan(Integer sessionLength);
 
-    // Date comparison example
-
+    @Query("select s from Session s where s.sessionName like %:name")
+    Page<Session> getSessionWithName(@Param("name") String name, Pageable page);
 }
